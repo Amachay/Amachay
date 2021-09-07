@@ -1818,9 +1818,9 @@ section {
     }
     .contenedor figure{
        position:relative;
-        height: 250px;
+        height: 230px;
         cursor: pointer;
-        width: 350px;
+        width: 360px;
         overflow: hidden;
         border-radius: 6px;
         box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
