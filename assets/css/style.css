@@ -1873,7 +1873,7 @@ section {
 # Propuesta
 --------------------------------------------------------------*/
 
-    #propuesta{
+    #propuestah1{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         width: 80%;
@@ -1881,13 +1881,13 @@ section {
         grid-gap: 50px;
     }
 
-    #propuesta img{
+    #propuestah1 img{
         width: 100%;
         transition: all 300ms;
         position: relative;
     }
 
-    #propuesta img:hover{
+    #propuestah1 img:hover{
         transform: scale(1.15);
     }
 
